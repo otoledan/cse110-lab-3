@@ -16,5 +16,5 @@ public class ExampleUnitTest {
     }
 
     @Test
-    public void twoPlusTwo () {assertEquals(2+2, 5);}
+    public void twoPlusTwo () {assertEquals(2+2, 4);}
 }
